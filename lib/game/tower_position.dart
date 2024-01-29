@@ -1,0 +1,4 @@
+enum TowerPosition {
+  top,
+  bottom,
+}

@@ -10,5 +10,6 @@ class Background extends SpriteComponent with HasGameRef<SkyFly> {
     final background = await Flame.images.load(Assets.background);
     size = gameRef.size;
     sprite = Sprite(background);
+    opacity = 0.3;
   }
 }
