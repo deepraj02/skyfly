@@ -4,5 +4,6 @@ class Assets {
   static const flightDown = 'flight-down.png';
   static const tower = 'tt.png';
   static const background = 'bg.png';
+  static const ground='ground.png';
 
 }
