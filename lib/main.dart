@@ -9,5 +9,5 @@ void main() {
   Flame.device.fullScreen();
   Flame.device.setLandscape();
   final game = SkyFly();
-  runApp(GameWidget(game: game));
+  runApp(GameWidget(game: game)); 
 }
